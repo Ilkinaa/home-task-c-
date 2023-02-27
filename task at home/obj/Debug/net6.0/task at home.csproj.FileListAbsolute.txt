@@ -1,0 +1,15 @@
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.AssemblyInfo.cs
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\task at home\task at home\bin\Debug\net6.0\task at home.exe
+C:\Users\Owner\source\repos\task at home\task at home\bin\Debug\net6.0\task at home.deps.json
+C:\Users\Owner\source\repos\task at home\task at home\bin\Debug\net6.0\task at home.runtimeconfig.json
+C:\Users\Owner\source\repos\task at home\task at home\bin\Debug\net6.0\task at home.dll
+C:\Users\Owner\source\repos\task at home\task at home\bin\Debug\net6.0\task at home.pdb
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.dll
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\refint\task at home.dll
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.pdb
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\task at home.genruntimeconfig.cache
+C:\Users\Owner\source\repos\task at home\task at home\obj\Debug\net6.0\ref\task at home.dll
